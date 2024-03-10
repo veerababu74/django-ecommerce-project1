@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+.price-tag {
+    color: green;
+    font-weight: 800;
+}
+
+.product-title {
+    font-weight: 800;
+}
